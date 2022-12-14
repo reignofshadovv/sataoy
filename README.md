@@ -1,0 +1,2 @@
+# sataoy
+Sayı Tahmi Oyunu
